@@ -3,7 +3,7 @@
 /**
 * binary_tree_delete - delete tree
 * @tree: parent node
-* 
+*
 * Return: void
 */
 
